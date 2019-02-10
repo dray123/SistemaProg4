@@ -5,7 +5,7 @@ namespace SistemaProg4
 {
     class ITBIS_DTO : ITBIS_DAO
     {
-        // Propiedades
+        // Propiedades mmmmm
         private int id;
         private string ddescripcion;
         private float tarifa;
